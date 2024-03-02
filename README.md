@@ -4,4 +4,4 @@ I prefer to stay anonymous (somewhat) so... SCRAM YOU OSINT USER!! there's nothi
 I also love things like taking down scam websites (legally of course) by using tools like [Phish Report](https://phish.report).
 Anyways, it's dangerous out there. Take this.
 
-![Rotating pipe bomb](github.com/anickname028/anickname028/assets/pipebomb.gif)
+![Rotating pipe bomb](assets/pipebomb.gif)
